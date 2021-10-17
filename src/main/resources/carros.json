@@ -1,0 +1,374 @@
+[
+  {
+    "categoria":"Subcompacto",
+    "marca":"CAOA CHERY",
+    "modelo":"NEW QQ",
+    "versao":"1.0 LOOK",
+    "motor":"1.0 - 12V",
+    "transmissao":"M-5",
+    "combustivel":["G", "D", "E"],
+    "poluentes":{
+      "nmhc":0.014,
+      "co":0.244,
+      "nox":0.032,
+      "notaReducaoPoluentes":"B"
+    },
+    "gees": [
+      {"combustivel":"G","valor":12.0}
+    ],
+    "consumos":[
+      {
+        "combustivel":"G",
+        "kmLitro":12.0
+      },
+      {
+        "combustivel":"D",
+        "kmLitro":12.0
+      }
+    ]
+  },
+  {
+    "categoria":"Subcompacto",
+    "marca":"CAOA CHERY",
+    "modelo":"NEW QQ",
+    "versao":"1.0 LOOK PLUS",
+    "motor":"1.0 - 12V",
+    "transmissao":"M-5",
+    "combustivel":["G", "D", "E"],
+    "poluentes":{
+      "nmhc":0.014,
+      "co":0.244,
+      "nox":0.032,
+      "notaReducaoPoluentes":"B"
+    },
+    "gees": [
+      {"combustivel":"G","valor":12.0}
+    ],
+    "consumos":[
+      {
+        "combustivel":"G",
+        "kmLitro":12.0
+      },
+      {
+        "combustivel":"D",
+        "kmLitro":12.0
+      }
+    ]
+  },
+  {
+    "categoria":"Subcompacto",
+    "marca":"CAOA CHERY",
+    "modelo":"NEW QQ",
+    "versao":"1.0 SMILE",
+    "motor":"1.0 - 12V",
+    "combustivel":["G", "D", "E"],
+    "transmissao":"M-5",
+    "poluentes":{
+      "nmhc":0.014,
+      "co":0.244,
+      "nox":0.032,
+      "notaReducaoPoluentes":"B"
+    },
+    "gees": [
+      {"combustivel":"G","valor":12.0}
+    ],
+    "consumos":[
+      {
+        "combustivel":"G",
+        "kmLitro":12.0
+      },
+      {
+        "combustivel":"D",
+        "kmLitro":12.0
+      }
+    ]
+  },
+  {
+    "categoria":"Subcompacto",
+    "marca":"CAOA CHERY",
+    "modelo":"NEW QQ",
+    "versao":"1.0 SMILE PLUS",
+    "motor":"1.0 - 12V",
+    "transmissao":"M-5",
+    "combustivel":["G", "D", "E"],
+    "poluentes":{
+      "nmhc":0.014,
+      "co":0.244,
+      "nox":0.032,
+      "notaReducaoPoluentes":"B"
+    },
+    "gees": [
+      {"combustivel":"G","valor":12.0}
+    ],
+    "consumos":[
+      {
+        "combustivel":"G",
+        "kmLitro":12.0
+      },
+      {
+        "combustivel":"D",
+        "kmLitro":12.0
+      }
+    ]
+  },
+  {
+    "categoria":"Subcompacto",
+    "marca":"CAOA CHERY",
+    "modelo":"NEW QQ",
+    "versao":"1.0 ACT",
+    "motor":"1.0 - 12V",
+    "transmissao":"M-5",
+    "combustivel":["G", "D", "E"],
+    "poluentes":{
+      "nmhc":0.014,
+      "co":0.244,
+      "nox":0.032,
+      "notaReducaoPoluentes":"B"
+    },
+    "gees": [
+      {"combustivel":"G","valor":12.0}
+    ],
+    "consumos":[
+      {
+        "combustivel":"G",
+        "kmLitro":12.0
+      },
+      {
+        "combustivel":"D",
+        "kmLitro":12.0
+      }
+    ]
+  },
+  {
+    "categoria":"Subcompacto",
+    "marca":"CAOA CHERY",
+    "modelo":"NEW QQ",
+    "versao":"1.0 ACT PLUS",
+    "motor":"1.0 - 12V",
+    "transmissao":"M-5",
+    "combustivel":["G", "D", "E"],
+    "poluentes":{
+      "nmhc":0.014,
+      "co":0.244,
+      "nox":0.032,
+      "notaReducaoPoluentes":"B"
+    },
+    "gees": [
+      {"combustivel":"G","valor":12.0}
+    ],
+    "consumos":[
+      {
+        "combustivel":"G",
+        "kmLitro":12.0
+      },
+      {
+        "combustivel":"D",
+        "kmLitro":12.0
+      }
+    ]
+  },
+  {
+    "categoria":"Subcompacto",
+    "marca":"KIA",
+    "modelo":"PICANTO",
+    "versao":"EX5",
+    "motor":"1.0 - 12V",
+    "transmissao":"M-5",
+    "combustivel":["G", "D", "E"],
+    "poluentes":{
+      "nmhc":0.013,
+      "co":0.364,
+      "nox":0.055,
+      "notaReducaoPoluentes":"C"
+    },
+    "gees": [
+      {"combustivel":"E","valor":0.0},
+      {"combustivel":"G","valor":104.0},
+      {"combustivel":"D","valor":104.0}
+    ],
+    "consumos":[
+      {
+        "combustivel":"E",
+        "kmLitro":8.9
+      },
+      {
+        "combustivel":"D",
+        "kmLitro":11.6
+      },
+      {
+        "combustivel":"G",
+        "kmLitro":11.6
+      }
+    ]
+  },
+  {
+    "categoria":"Subcompacto",
+    "marca":"KIA",
+    "modelo":"PICANTO",
+    "versao":"LX5 1.0 FF MT",
+    "motor":"1.0 - 12V",
+    "transmissao":"M-5",
+    "combustivel":["G", "D", "E"],
+    "poluentes":{
+      "nmhc":0.013,
+      "co":0.364,
+      "nox":0.055,
+      "notaReducaoPoluentes":"C"
+    },
+    "gees": [
+      {"combustivel":"E","valor":0.0},
+      {"combustivel":"G","valor":104.0},
+      {"combustivel":"D","valor":104.0}
+    ],
+    "consumos":[
+      {
+        "combustivel":"E",
+        "kmLitro":8.9
+      },
+      {
+        "combustivel":"D",
+        "kmLitro":11.6
+      },
+      {
+        "combustivel":"G",
+        "kmLitro":11.6
+      }
+    ]
+  },
+  {
+    "categoria":"Subcompacto",
+    "marca":"KIA",
+    "modelo":"PICANTO",
+    "versao":"EX5",
+    "motor":"1.0 - 12V",
+    "transmissao":"A-4",
+    "combustivel":["G", "D", "E"],
+    "poluentes":{
+      "nmhc":0.012,
+      "co":0.353,
+      "nox":0.041,
+      "notaReducaoPoluentes":"B"
+    },
+    "gees": [
+      {"combustivel":"E","valor":0.0},
+      {"combustivel":"G","valor":105.0},
+      {"combustivel":"D","valor":105.0}
+    ],
+    "consumos":[
+      {
+        "combustivel":"E",
+        "kmLitro":8.1
+      },
+      {
+        "combustivel":"D",
+        "kmLitro":11.4
+      },
+      {
+        "combustivel":"G",
+        "kmLitro":11.4
+      }
+    ]
+  },
+  {
+    "categoria":"Subcompacto",
+    "marca":"KIA",
+    "modelo":"PICANTO",
+    "versao":"LX5 1.0 FF AT",
+    "motor":"1.0 - 12V",
+    "transmissao":"A-4",
+    "combustivel":["G", "D", "E"],
+    "poluentes":{
+      "nmhc":0.012,
+      "co":0.353,
+      "nox":0.041,
+      "notaReducaoPoluentes":"B"
+    },
+    "gees": [
+      {"combustivel":"E","valor":0.0},
+      {"combustivel":"G","valor":105.0},
+      {"combustivel":"D","valor":105.0}
+    ],
+    "consumos":[
+      {
+        "combustivel":"E",
+        "kmLitro":8.1
+      },
+      {
+        "combustivel":"D",
+        "kmLitro":11.4
+      },
+      {
+        "combustivel":"G",
+        "kmLitro":11.4
+      }
+    ]
+  },
+  {
+    "categoria":"Subcompacto",
+    "marca":"VW",
+    "modelo":"up!",
+    "versao":"move",
+    "motor":"1.0 - 12V",
+    "transmissao":"M-5",
+    "combustivel":["G", "D", "E"],
+    "poluentes":{
+      "nmhc":0.023,
+      "co":0.218,
+      "nox":0.032,
+      "notaReducaoPoluentes":"B"
+    },
+    "gees": [
+      {"combustivel":"E","valor":0.0},
+      {"combustivel":"G","valor":89.0},
+      {"combustivel":"D","valor":89.0}
+    ],
+    "consumos":[
+      {
+        "combustivel":"E",
+        "kmLitro":9.6
+      },
+      {
+        "combustivel":"D",
+        "kmLitro":14.2
+      },
+      {
+        "combustivel":"G",
+        "kmLitro":14.2
+      }
+    ]
+  },
+  {
+    "categoria":"Subcompacto",
+    "marca":"VW",
+    "modelo":"up!",
+    "versao":"move (I-Motion)",
+    "motor":"1.0 - 12V",
+    "transmissao":"MTA-5",
+    "combustivel":["G", "D", "E"],
+    "poluentes":{
+      "nmhc":0.037,
+      "co":0.599,
+      "nox":0.018,
+      "notaReducaoPoluentes":"C"
+    },
+    "gees": [
+      {"combustivel":"E","valor":0.0},
+      {"combustivel":"G","valor":89.0},
+      {"combustivel":"D","valor":89.0}
+    ],
+    "consumos":[
+      {
+        "combustivel":"E",
+        "kmLitro":9.4
+      },
+      {
+        "combustivel":"D",
+        "kmLitro":14.0
+      },
+      {
+        "combustivel":"G",
+        "kmLitro":14.0
+      }
+    ]
+  }
+]
